@@ -28,6 +28,7 @@ The project uses SQL for data analysis and Tableau for interactive business dash
 ## Tableau Dashboards
 
 ### 1. Executive Business Overview
+![Dashboard 1 - Executive Business Overview](Dashboard_1_Executive_Business_Overview.png)
 
 Provides a high-level view of:
 
@@ -39,6 +40,7 @@ Provides a high-level view of:
 - Marketing channel performance
 
 ### 2. Product & Geographic Performance
+![Dashboard 2 - Product & Geographic Performance](Dashboard_2_Product_Geographic_Performance.png)
 
 Analyzes:
 
