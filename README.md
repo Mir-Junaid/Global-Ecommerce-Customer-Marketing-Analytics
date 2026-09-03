@@ -28,7 +28,7 @@ The project uses SQL for data analysis and Tableau for interactive business dash
 ## Tableau Dashboards
 
 ### 1. Executive Business Overview
-![Dashboard 1 - Executive Business Overview](Dashboard_1_Executive_Business_Overview.png)
+![Dashboard 1 - Executive Business Overview](Dashboard_01_Executive_Business_Overview.png)
 
 Provides a high-level view of:
 
